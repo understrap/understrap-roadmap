@@ -1,6 +1,5 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
 title: ''
 labels: community_new
 assignees: ''
@@ -9,9 +8,6 @@ assignees: ''
 
 **Tell us about your request**
 A clear and concise description of what you want to happen or the change you would like to see
-
-**Which service(s) is this request for?**
-Let us know which product(s) you want this for?
 
 **Tell us about the problem you're trying to solve. What are you trying to do, and why is it hard?**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]

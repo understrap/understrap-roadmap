@@ -17,11 +17,13 @@ We would ask that you please don't use this repo to raise bugs. Each of our prod
 
 To raise a bug please use:
 * [Understrap Framework](https://github.com/understrap/understrap/issues/new)
-* [Docker Desktop Windows](https://github.com/understrap-understrap-child/issues/new)
+* [Understrap Basic Child Theme ](https://github.com/understrap/understrap-child/issues/new)
 
 ## Security issue notifications
 Please do **not** create a public github issue.
 If you discover a potential security issue in this project we ask that you notify Docker Security send your report privately to security@understrap.com. Please do **not** create a public github issue.
 
 ## Licensing
-See the [LICENSE](https://github.com/understrap/understrap/blob/master/LICENSE) file for Understrap Framework's licensing. We will ask you to confirm the licensing of your contribution.
+See the [CC0 LICENSE](https://github.com/understrap/understrap-roadmap/blob/main/LICENSE.txt) file for Understrap Framework's roadmap licensing.
+
+For the Understrap Framework, the GNU GENERAL PUBLIC LICENSE is [here](https://github.com/understrap/understrap/blob/main/LICENSE.md)

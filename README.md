@@ -7,9 +7,9 @@ This is the public roadmap for understrap Framework.
 # Introduction
 We want to share with you what we plan to do early and often so we can get your feedback on whether these are the right things for us to be focusing on. This also allows our you to make early decisions based on what we are/are not building. 
 
-[See the roadmap »](https://github.com/Understrap/understreap-Roadmap/projects/1)
+[See the roadmap »](https://github.com/Understrap/understreap-roadmap/projects/1)
 
-[Contribute to our roadmap »](https://github.com/Understrap/understrap-roadmap/blob/main/CONTRIBUTING.MD)
+[Contribute to our roadmap »](https://github.com/understrap/understrap-roadmap/blob/main/CONTRIBUTING.md)
 
 ## Early Access to features 
 For users of Understrap framework interested in early access to new features please see the develop branch wich contains the newest code awaiting review for the next release.
@@ -39,7 +39,7 @@ Please do not create a public github issue. If you discover a potential security
 
 **Q:** How can I request a feature be added to the roadmap?
 
-**A:** Please open an issue! You can read about how to contribute [here](https://github.com/Understrap/understrap-roadmap/blob/main/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+**A:** Please open an issue! You can read about how to contribute [here](https://github.com/understrap/understrap-roadmap/blob/main/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
 
 **Q:** Will you accept a pull request?
 
