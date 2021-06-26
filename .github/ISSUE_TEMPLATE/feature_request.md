@@ -1,5 +1,6 @@
 ---
 name: Feature request
+about: Suggest an idea for Understrap Framework
 title: ''
 labels: community_new
 assignees: ''
