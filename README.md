@@ -9,7 +9,7 @@ We want to share with you what we plan to do early and often so we can get your 
 
 [See the roadmap »](https://github.com/Understrap/understreap-Roadmap/projects/1)
 
-[Contribute to our roadmap »](https://github.com/Understrap/Understrap-Roadmap/blob/main/CONTRIBUTING.MD)
+[Contribute to our roadmap »](https://github.com/Understrap/understrap-roadmap/blob/main/CONTRIBUTING.MD)
 
 ## Early Access to features 
 For users of Understrap framework interested in early access to new features please see the develop branch wich contains the newest code awaiting review for the next release.
@@ -39,7 +39,7 @@ Please do not create a public github issue. If you discover a potential security
 
 **Q:** How can I request a feature be added to the roadmap?
 
-**A:** Please open an issue! You can read about how to contribute [here](https://github.com/Understrap/Understrap-Roadmap/blob/main/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+**A:** Please open an issue! You can read about how to contribute [here](https://github.com/Understrap/understrap-roadmap/blob/main/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
 
 **Q:** Will you accept a pull request?
 
